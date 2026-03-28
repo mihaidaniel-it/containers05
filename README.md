@@ -44,7 +44,7 @@
 
 Изменён файл `000-default.conf`:
 
-![Apache config](step0.png)
+![Apache config](screenshots/step0.png)
 
 Добавлено:
 
@@ -57,7 +57,7 @@
 
 Создан Dockerfile:
 
-![Dockerfile](step1.png)
+![Dockerfile](screenshots/step1.png)
 
 ---
 
@@ -65,7 +65,7 @@
 
 Создан файл `supervisord.conf`:
 
-![Supervisor](step2.png)
+![Supervisor](screenshots/step2.png)
 
 Обеспечивает запуск:
 
@@ -78,7 +78,7 @@
 
 Контейнер успешно запущен:
 
-![Run container](step3.png)
+![Run container](screenshots/step3.png)
 
 ---
 
@@ -86,7 +86,7 @@
 
 В WordPress введены параметры подключения:
 
-![DB setup](step4.png)
+![DB setup](screenshots/step4.png)
 
 ---
 
@@ -94,7 +94,7 @@
 
 Произведена установка системы:
 
-![Install WP](step5.png)
+![Install WP](screenshots/step5.png)
 
 ---
 
@@ -102,7 +102,7 @@
 
 WordPress успешно запущен:
 
-![Final site](step6.png)
+![Final site](screenshots/step6.png)
 
 ---
 
